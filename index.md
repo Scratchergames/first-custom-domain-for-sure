@@ -10,3 +10,7 @@ code yes, ```text``` with backsticks [download file](https://drive.usercontent.g
 ***
 and screenshots or images, for example:
 <img width="32" height="32" alt="cursor-default" src="https://github.com/user-attachments/assets/c41410e1-2a90-4717-88f1-49396b750f22" />
+or videos like 
+
+
+https://github.com/user-attachments/assets/60832482-2858-4fb4-b94d-b7c9e9949b49
